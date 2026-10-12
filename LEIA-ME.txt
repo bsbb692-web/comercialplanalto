@@ -1,0 +1,9 @@
+SITE INSTITUCIONAL — COMERCIAL PLANALTO
+
+Abra index.html no navegador. Para publicar, envie todos os arquivos e a pasta assets para uma hospedagem web mantendo a estrutura.
+
+IMPORTANTE: a história sobre a infância e as origens familiares do fundador é uma proposta narrativa baseada no pedido do cliente, não um fato confirmado pelo documento cadastral. Solicite a confirmação do fundador antes da publicação. O site sinaliza essa condição na seção Nossa história.
+
+Dados de CNPJ, nome do sócio, fundação, endereço, telefone e e-mail foram extraídos do relatório enviado pelo cliente. As áreas são atividades cadastradas, não garantia de estoque ou operação efetiva.
+
+O site é estático, responsivo e não possui vendas nem formulários que coletam dados.
